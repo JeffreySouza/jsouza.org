@@ -1,0 +1,31 @@
+# Site settings
+baseurl = "http://yourfriendjeff.com/"
+languageCode = "en-us"
+title = "Jeff Souza - Game Developer"
+theme = "hugrid"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = "UA-100666835-1"
+
+contentdir = "content"
+datadir = "data" layoutdir = "layouts"
+publishdir = "public"
+
+[params]
+    # Meta
+    title = "Jeff Souza - Game Developer"
+    subtitle = "Portfolio"
+    author = "Jeff Souza"
+    description = "My personal site"
+    keywords = "Jeff Souza, game development, portfolio"
+
+    # Body background color
+    bodybgcolor = "#f9f9f9"
+
+    # Preview container button text
+    buttontext = "Check it out"
+
+    # Footer text
+    footertext = "[github](https://github.com/JeffreySouza) -  [linkedin](https://www.linkedin.com/in/jeffreysouza/) -  [twitter](https://twitter.com/1inchboy) -  [email](mailto:jeffreymsouza@gmail.com)"
+
+    # add extra-css
+    # custom_css = ['css/extra1.css', 'css/extra2.css']

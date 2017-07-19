@@ -1,0 +1,23 @@
+[[items]]
+title = "A Boy and His Beard"
+image = "images/full/1.png"
+thumb = "images/thumbs/1.png"
+alt = "A Boy and His Beard"
+description = "A 3-D action game where you fight waves of enemies with your beard.<br/>Built with Unity."
+url = "https://pixel-island.itch.io/a-boy-and-his-beard"
+
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/2.png"
+thumb = "images/thumbs/2.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/3.png"
+thumb = "images/thumbs/3.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
