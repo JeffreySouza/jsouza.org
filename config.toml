@@ -8,7 +8,7 @@ googleAnalytics = "UA-100666835-1"
 
 contentdir = "content"
 datadir = "data" layoutdir = "layouts"
-publishdir = "public"
+publishdir = "docs"
 
 [params]
     # Meta
