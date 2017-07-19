@@ -13,7 +13,7 @@ publishdir = "docs"
 [params]
     # Meta
     title = "Jeff Souza - Game Developer"
-    subtitle = "Portfolio"
+    subtitle = "[Résumé](/resume_cv.pdf)"
     author = "Jeff Souza"
     description = "My personal site"
     keywords = "Jeff Souza, game development, portfolio"
