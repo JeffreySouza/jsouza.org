@@ -19,7 +19,7 @@ publishdir = "docs"
     keywords = "Jeff Souza, game development, portfolio"
 
     # Body background color
-    bodybgcolor = "#FFFADA"
+    bodybgcolor = "#F2F2F2"
 
     # Preview container button text
     buttontext = "Check it out"
