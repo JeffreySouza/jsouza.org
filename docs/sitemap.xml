@@ -8,12 +8,12 @@
   </url>
   
   <url>
-    <loc>http://yourfriendjeff.com/</loc>
+    <loc>http://yourfriendjeff.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://yourfriendjeff.com/tags/</loc>
+    <loc>http://yourfriendjeff.com/</loc>
     <priority>0</priority>
   </url>
   
