@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "http://yourfriendjeff.com/"
 languageCode = "en-us"
-title = "Jeff Souza - Game Developer"
+title = "Jeff Souza - Software Engineer"
 theme = "hugrid"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-100666835-1"
@@ -12,8 +12,8 @@ publishdir = "docs"
 
 [params]
     # Meta
-    title = "Jeff Souza - Game Developer"
-    subtitle = "[Résumé](/resume_cv.pdf)"
+    title = "jeff souza (software engineer)"
+    subtitle = "[my résumé](/resume_cv.pdf)"
     author = "Jeff Souza"
     description = "My personal site"
     keywords = "Jeff Souza, game development, portfolio"
@@ -28,4 +28,4 @@ publishdir = "docs"
     footertext = "[github](https://github.com/JeffreySouza) -  [linkedin](https://www.linkedin.com/in/jeffreysouza/) -  [twitter](https://twitter.com/1inchboy) -  [email](mailto:jeffreymsouza@gmail.com)"
 
     # add extra-css
-    # custom_css = ['css/extra1.css', 'css/extra2.css']
+    custom_css = ['css/extra.css']
