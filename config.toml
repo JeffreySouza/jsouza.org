@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "http://yourfriendjeff.com/"
 languageCode = "en-us"
-title = "Jeff Souza - Software Engineer"
+title = "jeff souza (software engineer)"
 theme = "hugrid"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-100666835-1"
@@ -14,9 +14,9 @@ publishdir = "docs"
     # Meta
     title = "jeff souza (software engineer)"
     subtitle = "[my résumé](/resume_cv.pdf)"
-    author = "Jeff Souza"
-    description = "My personal site"
-    keywords = "Jeff Souza, game development, portfolio"
+    author = "jeff souza"
+    description = "my personal site"
+    keywords = "jeff souza, game development, portfolio, software, engineer"
 
     # Body background color
     bodybgcolor = "#F2F2F2"
