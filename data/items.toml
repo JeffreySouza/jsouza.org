@@ -11,7 +11,7 @@ title = "HackTheU"
 image = "images/full/2.png"
 thumb = "images/thumbs/2.png"
 alt = "Hack the U"
-description = "HackTheU is a non-profit organization I helped found that hosts Utah's largest hackathon.<br/><br/>The annual hackathon takes place over 24 hours at the University of Utah, featuring workshops and tech talks from members of Salt Lake's local tech industry."
+description = "HackTheU is a non-profit organization I helped found that hosts Utah's largest hackathon.<br/><br/>The annual hackathon takes place over a 24 hour period at the University of Utah, featuring workshops and tech talks from members of Salt Lake's local tech industry."
 url = "http://hacktheu.com"
 
 [[items]]
