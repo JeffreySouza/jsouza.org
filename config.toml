@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://yourfriendjeff.com/"
+baseurl = "http://jsouza.org/"
 languageCode = "en-us"
 title = "jeff souza (software engineer)"
 theme = "hugrid"
