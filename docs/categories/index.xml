@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on jeff souza (software engineer)</title>
-    <link>http://yourfriendjeff.com/categories/</link>
+    <link>http://jsouza.org/categories/</link>
     <description>Recent content in Categories on jeff souza (software engineer)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://yourfriendjeff.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jsouza.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
